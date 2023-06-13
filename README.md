@@ -6,7 +6,7 @@
   
   # Inside Good Things 
     프론트엔드 개발자로, 리액트를 사용해 최신 웹 트렌드에 맞는 SPA를 구현합니다. 
-       현 aka cognitive FE 인턴 재직중
+       현 aka cognitive FE 재직중
   <br>
   
   

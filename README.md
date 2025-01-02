@@ -5,7 +5,7 @@
 <div align="center">
   
   # Inside Good Things 
-    프론트엔드 개발자로, 리액트를 사용해 최신 웹 트렌드에 맞는 SPA를 구현합니다. 
+    프론트엔드 개발자로, React와 Vue를 주로 사용하여 최신 웹 트렌드에 맞는 SPA를 구현합니다. 
   
   <br>
   
@@ -13,7 +13,7 @@
 
   <p>
 
-![Dameun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inside-eun&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inside-eun&layout=compact)](https://github.com/Inside-eun/github-readme-stats)
+![Dameun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inside-eun&show_icons=true&theme=radical) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dameun0808)](https://solved.ac/dameun0808/)
 
 # Skills
@@ -24,7 +24,6 @@
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) 
 
   # Contacts
-[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Naver&link=https://blog.naver.com/dsilver0818/)](https://blog.naver.com/dsilver0818/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dameun0808@gmail.com)](mailto:dameun0808@gmail.com)
 
 

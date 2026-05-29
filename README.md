@@ -5,16 +5,15 @@
 <div align="center">
   
   # Inside Good Things 
-    프론트엔드 개발자로, React와 Vue를 주로 사용하여 최신 웹 트렌드에 맞는 SPA를 구현합니다. 
+      ai 만 있으면 무엇이라도 만들 수 있어 .....
+
+      
   
   <br>
   
   
 
   <p>
-
-![Dameun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inside-eun&show_icons=true&theme=radical) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dameun0808)](https://solved.ac/dameun0808/)
 
 # Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
